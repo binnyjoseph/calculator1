@@ -41,5 +41,5 @@ elif choice == 3:
 elif choice == 4:
    print(num1,"/",num2,"=", divide(num1,num2))
 else:
-          print (choice)
+          printf (choice)
    print("Invalid input")
